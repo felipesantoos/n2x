@@ -3,14 +3,14 @@ Um algoritmo que converte os números de 0 a 1000 para sua versão por extenso c
 
 # Objetivo
 - Converter cada número que o usuário digitar em sua versão por extenso.
-> Intervalo limite: 1 - 1000.
+- Intervalo limite: de 1 até 1000.
 
 # Descrição-narrativa:
-    1. Pedir para que o usuário digite um número.
-    2. Se esse númeto foi maior ou igual a 0 (zero):
-        2.1. Mostrar o número por extenso.
-    3. Senão:
-        3.1. Encerrar o programa.
+1. Pedir para que o usuário digite um número.
+2. Se esse númeto foi maior ou igual a 0 (zero):
+    1. Mostrar o número por extenso.
+3. Senão:
+    1. Encerrar o programa.
 
 # Exemplos:
 ```
