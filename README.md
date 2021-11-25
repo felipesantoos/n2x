@@ -13,20 +13,22 @@ Um algoritmo que converte os números de 0 a 1000 para sua versão por extenso c
         3.1. Encerrar o programa.
 
 # Exemplos:
-    ```shell
-    Digite um número: 1
-    um
-    Digite um número: 25
-    vinte e cinco
-    Digite um número: 100
-    cem
-    Digite um número: 101
-    cento e um
-    Digite um número: 364
-    trezentos e sessenta e quatro
-    Digite um número: 999
-    novencentos e noventa e nove
-    ```
+```
+Digite um número: 1
+um
+Digite um número: 25
+vinte e cinco
+Digite um número: 100
+cem
+Digite um número: 101
+cento e um
+Digite um número: 364
+trezentos e sessenta e quatro
+Digite um número: 999
+novencentos e noventa e nove
+Digite um número: 1000
+um mil
+```
 # O que é preciso para rodar o projeto
 - Que o interpretador do Python esteja instalado (eu uso o `python3`).
 - Instalar a biblioteca `pandas` com o comando `python3 -m pip install pandas`.
